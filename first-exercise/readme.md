@@ -1,33 +1,32 @@
-##Exercise 01 - Lists
+# Exercise 01 - Lists
 
-#The purpose of the exercise is to reproduce the following lists
+## The purpose of the exercise is to reproduce the following lists
 
 Viagens Espaciais
 Conheça algumas pessoas que já participaram de viagens espaciais.
 
- - 1961–1979
-  Yuri Gagarin
+ ### 1961–1979
+#### Yuri Gagarin
     Pais: União Sovietica
     Ano: 1961
     Nave: Vostok 1
     Fato interessante: Primeiro homem no espaço
 
 
- - John Glenn
+ #### John Glenn
     Pais: Estados Unidos
     Ano: 1962
     Nave: Friendship 7
     Fato interessante: Primeiro norte-americano em órbita
 
-
-- 1980–1999
-  Bertalan Farkas
+### 1980–1999
+#### Bertalan Farkas
     Pais: Hungia
     Ano: 1980
     Nave: Soyuz 36 / Salyut 6
     Fato interessante: Primeiro cosmonauta da Hungria.
 
-  Yuri Malenchenko
+#### Yuri Malenchenko
     Pais: Rússia
     Ano: 1994
     Nave: Soyuz TM-19 / Mir
