@@ -1,0 +1,13 @@
+## Exercise: making my table
+
+### Objective:
+
+Create a table in HTML for the following informations:
+
+Sol - 99,85%
+Júpiter - 0,10%
+Demais Planetas - 0,04%
+Cometas - 0,01% (?)
+Satélites e anéis - 0,000 05%
+Asteroides - 0,000 000 2%
+Meteoritos e poeira - 0.000 000 1% (?)
